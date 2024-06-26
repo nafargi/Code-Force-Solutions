@@ -13,10 +13,9 @@ int main()
         cout<<len<<"\n";
     }
 
-
     else{
         l1--,l2--;
-//        cout<<l1<<" "<<l2<<"\n";
+      cout<<l1<<" "<<l2<<"\n";
         while(l1>=0 && l2>=0){
             if(s[l1] == t[l2]){
                 c++;
