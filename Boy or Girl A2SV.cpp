@@ -1,4 +1,4 @@
-MaSter Solution, [
+MaSter Solution
 #include <iostream>
 #include <string>
 #include <cstring>
