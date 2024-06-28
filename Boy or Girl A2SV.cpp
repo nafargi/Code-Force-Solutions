@@ -1,4 +1,4 @@
-MaSter Soluti
+
 #include <iostream>
 #include <string>
 #include <cstring>
