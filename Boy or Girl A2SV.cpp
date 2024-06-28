@@ -1,4 +1,4 @@
-MaSter Solution, [5/21/2024 5:29 A
+MaSter Solution, [5/21/2024 5:29 
 #include <iostream>
 #include <string>
 #include <cstring>
