@@ -1,4 +1,4 @@
-MaSter Solution, [5/21/
+MaSter Solution, [5/2
 #include <iostream>
 #include <string>
 #include <cstring>
