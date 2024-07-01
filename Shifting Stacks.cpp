@@ -4,7 +4,7 @@
 #define pb              push_back
 #define fastread()      (ios_base:: sync_with_stdio(false),cin.tie(NULL));
 using namespace std;
-int main()
+int main() bbbbj
 {
     fastread();
     //freopen("input.txt","r", stdin);
