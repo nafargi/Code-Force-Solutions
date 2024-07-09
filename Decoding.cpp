@@ -2,7 +2,7 @@
  
 typedef long long ll;
 typedef unsigned long long ull;
- sssssssss
+ ssssssss
 using namespace std;
 int main(int argc, char *argv[]) {
     int n;
