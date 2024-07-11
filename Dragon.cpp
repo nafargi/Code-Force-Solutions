@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    rrrrrrrr
+    rrrrrrr
     long int x,c,i,j,s,n,array,num;
     pair<int, int>a[1000];
     while(cin>>s>>n)
