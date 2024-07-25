@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
- j
 typedef long long ll;
 typedef unsigned long long ull;
 using namespace std;
