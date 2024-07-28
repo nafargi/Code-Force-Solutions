@@ -3,7 +3,7 @@
 #include <string>
 #include <cstring>
 using namespace std;
-
+yhyyy
 void determinTheSex(char* s, int len){
    int counter = 0;
    for(int i=0; i< len; i++){
